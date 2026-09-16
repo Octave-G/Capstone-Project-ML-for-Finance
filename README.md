@@ -8,5 +8,5 @@ I built two predictive models, a Random Forest model and an AutoRegressive Distr
 
 For my exogenous variables, I took a mix of financial assets such as Gold, Oil, and FX rates. Some major economic indicators: GDP, Unemployment rate, and the VIX index; and lastly, Treasury bonds with different maturities.
 
-You can look at the Random Forest model outputs and explanation in the files: RandomForest_Output.ipynb and RandomForest_Explanation.pdf.
-Similarly, for the ARDL model, see the files: ARDL_Output.ipynb and ARDL_Explanation.pdf
+You can look at the Random Forest model outputs and explanation in the files: **RandomForest_Output.ipynb** and **RandomForest_Explanation.pdf**.
+Similarly, for the ARDL model, see the files: **ARDL_Output.ipynb** and **ARDL_Explanation.pdf**.
